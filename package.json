@@ -1,0 +1,22 @@
+{
+  "name": "pintores2_sitio_dinamico",
+  "version": "1.0.0",
+  "description": "Un sitio web dinamico sobre pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusPalacios24/pintores2_sitio_dinamico.git"
+  },
+  "author": "Jesus Emanuel Palacios Mendias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusPalacios24/pintores2_sitio_dinamico/issues"
+  },
+  "homepage": "https://github.com/JesusPalacios24/pintores2_sitio_dinamico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
